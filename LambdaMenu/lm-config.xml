@@ -36,7 +36,7 @@
     <key function="pointing_action" value="VK_KEY_B"/>
 
     <!--Teleport Controls-->	
-    <key function="teleport_to_marker" value="VK_F4"/> 
+    <key function="teleport_to_marker" value="VK_F10"/> 
 
 		<!--Vehicle Controls-->
 	  <key function="veh_boost" value="VK_NUMPAD9"/> 
